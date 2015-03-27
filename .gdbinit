@@ -1,0 +1,1 @@
+set sysroot /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd

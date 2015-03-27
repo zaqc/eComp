@@ -1,0 +1,8 @@
+
+bin_PROGRAMS = Comp
+Comp_SOURCES = Comp.cpp
+
+AM_CXXFLAGS = @Comp_CFLAGS@
+AM_LDFLAGS = @Comp_LIBS@
+
+CLEANFILES = *~

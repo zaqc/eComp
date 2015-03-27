@@ -1,0 +1,410 @@
+Comp.o: Comp.cpp \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/stdc-predef.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/stdio.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/features.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sys/cdefs.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/wordsize.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/gnu/stubs.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/gnu/stubs-hard.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/x86_64-linux/usr/lib/cortexa9hf-vfp-neon-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.8.2/include/stddef.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/types.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/typesizes.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/libio.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/_G_config.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/wchar.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/x86_64-linux/usr/lib/cortexa9hf-vfp-neon-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.8.2/include/stdarg.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/stdio_lim.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/sys_errlist.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/pthread.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/endian.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/endian.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/byteswap.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/byteswap-16.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sched.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/time.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/sched.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/time.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/timex.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/xlocale.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/pthreadtypes.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/setjmp.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sys/socket.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sys/uio.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sys/types.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sys/select.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/select.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/sigset.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sys/sysmacros.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/uio.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/socket.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/socket_type.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/sockaddr.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/asm/socket.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/asm-generic/socket.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/asm/sockios.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/asm-generic/sockios.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/netinet/in.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/x86_64-linux/usr/lib/cortexa9hf-vfp-neon-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.8.2/include/stdint.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/stdint.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/wchar.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/in.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/unistd.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/posix_opt.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/environments.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/confname.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/getopt.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/arpa/inet.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/string.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/iostream \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/c++config.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/os_defines.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/cpu_defines.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ostream \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ios \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/iosfwd \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stringfwd.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/memoryfwd.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/postypes.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/cwchar \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/exception \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/atomic_lockfree_defines.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/char_traits.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_algobase.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/functexcept.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/exception_defines.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/cpp_type_traits.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ext/type_traits.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ext/numeric_traits.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_pair.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/move.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/concept_check.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_iterator_base_types.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_iterator_base_funcs.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/debug/debug.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_iterator.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/localefwd.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/c++locale.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/clocale \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/locale.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/locale.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/cctype \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/ctype.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/ios_base.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ext/atomicity.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/gthr.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/gthr-default.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/atomic_word.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/locale_classes.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/string \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/allocator.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/c++allocator.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ext/new_allocator.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/new \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/ostream_insert.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/cxxabi_forced.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_function.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/backward/binders.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/range_access.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/basic_string.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/basic_string.tcc \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/locale_classes.tcc \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/streambuf \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/streambuf.tcc \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/basic_ios.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/locale_facets.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/cwctype \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/wctype.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/ctype_base.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/streambuf_iterator.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/ctype_inline.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/locale_facets.tcc \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/basic_ios.tcc \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/ostream.tcc \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/istream \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/istream.tcc \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/stdlib.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/waitflags.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/waitstatus.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/alloca.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/stdlib-float.h \
+ XThread.h XSocket.h MessageThread.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/deque \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_construct.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ext/alloc_traits.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_uninitialized.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_deque.h \
+ /home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/deque.tcc
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/stdc-predef.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/stdio.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/features.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sys/cdefs.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/wordsize.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/gnu/stubs.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/gnu/stubs-hard.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/x86_64-linux/usr/lib/cortexa9hf-vfp-neon-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.8.2/include/stddef.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/types.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/typesizes.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/libio.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/_G_config.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/wchar.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/x86_64-linux/usr/lib/cortexa9hf-vfp-neon-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.8.2/include/stdarg.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/stdio_lim.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/sys_errlist.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/pthread.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/endian.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/endian.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/byteswap.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/byteswap-16.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sched.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/time.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/sched.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/time.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/timex.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/xlocale.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/pthreadtypes.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/setjmp.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sys/socket.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sys/uio.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sys/types.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sys/select.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/select.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/sigset.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/sys/sysmacros.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/uio.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/socket.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/socket_type.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/sockaddr.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/asm/socket.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/asm-generic/socket.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/asm/sockios.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/asm-generic/sockios.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/netinet/in.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/x86_64-linux/usr/lib/cortexa9hf-vfp-neon-poky-linux-gnueabi/gcc/arm-poky-linux-gnueabi/4.8.2/include/stdint.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/stdint.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/wchar.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/in.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/unistd.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/posix_opt.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/environments.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/confname.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/getopt.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/arpa/inet.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/string.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/iostream:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/c++config.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/os_defines.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/cpu_defines.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ostream:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ios:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/iosfwd:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stringfwd.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/memoryfwd.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/postypes.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/cwchar:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/exception:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/atomic_lockfree_defines.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/char_traits.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_algobase.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/functexcept.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/exception_defines.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/cpp_type_traits.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ext/type_traits.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ext/numeric_traits.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_pair.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/move.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/concept_check.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_iterator_base_types.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_iterator_base_funcs.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/debug/debug.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_iterator.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/localefwd.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/c++locale.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/clocale:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/locale.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/locale.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/cctype:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/ctype.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/ios_base.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ext/atomicity.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/gthr.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/gthr-default.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/atomic_word.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/locale_classes.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/string:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/allocator.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/c++allocator.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ext/new_allocator.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/new:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/ostream_insert.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/cxxabi_forced.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_function.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/backward/binders.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/range_access.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/basic_string.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/basic_string.tcc:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/locale_classes.tcc:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/streambuf:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/streambuf.tcc:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/basic_ios.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/locale_facets.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/cwctype:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/wctype.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/ctype_base.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/streambuf_iterator.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/arm-poky-linux-gnueabi/bits/ctype_inline.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/locale_facets.tcc:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/basic_ios.tcc:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/ostream.tcc:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/istream:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/istream.tcc:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/stdlib.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/waitflags.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/waitstatus.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/alloca.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/bits/stdlib-float.h:
+
+XThread.h:
+
+XSocket.h:
+
+MessageThread.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/deque:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_construct.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/ext/alloc_traits.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_uninitialized.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/stl_deque.h:
+
+/home/zaqc/var-som-mx6-daisy-v7/build_mx6q/tmp/sysroots/imx6qsabresd/usr/include/c++/bits/deque.tcc:
